@@ -1,0 +1,30 @@
+.bg-black{
+    background-color: black;
+}
+img{
+	height: 100%;
+    width: 100%;
+}
+.font-div{
+	width:30%;
+}
+
+.skils{
+	
+	background-image:linear-gradient(#119534,#3F98CB);
+	color:white;
+}
+
+.contactus_align {
+    margin-left: 12px;
+}	
+/*responsive*/
+
+@media screen and (min-width:989px) {
+
+	.font-div{
+		padding: 76.8px 0px!important;
+	}
+}
+
+
